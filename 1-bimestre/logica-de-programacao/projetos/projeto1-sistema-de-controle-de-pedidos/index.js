@@ -40,5 +40,5 @@ module.exports = {
   valorDesconto,
   valorFinal,
   troco,
-  resumo,
+ resumo,
 }
